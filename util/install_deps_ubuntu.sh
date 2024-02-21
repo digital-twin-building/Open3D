@@ -15,7 +15,7 @@ deps=(
     xorg-dev
     libxcb-shm0
     libglu1-mesa-dev
-    python3-dev
+    # python3-dev
     # Filament build-from-source
     clang
     libc++-dev
